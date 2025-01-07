@@ -67,5 +67,8 @@
     "mime-types": "2.1.35",
     "plaiceholder": "^3.0.0",
     "sharp": "^0.33.5"
+  },
+  "optionalDependencies": {
+    "sharp": "^0.33.5"
   }
 }
